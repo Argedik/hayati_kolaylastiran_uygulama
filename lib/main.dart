@@ -30,9 +30,41 @@ class _MyHomePageState extends State<MyHomePage> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      body: Center(
-        child: Text("desasasdqwdasdfasdfqwdasdasdaneme"),
+        body: SingleChildScrollView(
+      child: Column(
+        children: [
+          Padding(
+            padding: const EdgeInsets.all(110.0),
+            child: Container(
+              height: 100,
+              width: 100,
+              child: Center(
+                child: Text("desasasdqwdqwdasdasdaneme"),
+              ),
+            ),
+          ),
+          Padding(
+            padding: const EdgeInsets.all(110.0),
+            child: Container(
+              height: 100,
+              width: 100,
+              child: Center(
+                child: Text("desasasdqwdqwdasdasdaneme"),
+              ),
+            ),
+          ),
+          Padding(
+            padding: const EdgeInsets.all(110.0),
+            child: Container(
+              height: 100,
+              width: 100,
+              child: Center(
+                child: Text("desasasdqwdqwdasdasdaneme"),
+              ),
+            ),
+          ),
+        ],
       ),
-    );
+    ));
   }
 }

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "990116924577",
+    "project_id": "argedik-web",
+    "storage_bucket": "argedik-web.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990116924577:android:4b4f9bf342b120db4f74e0",
+        "android_client_info": {
+          "package_name": "argedikdeneme.example.hayati_kolaylastiran_uygulama"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "990116924577-tqc6pq9i56hvpormvm3jc31ck0d5tp2t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "argedikdeneme.example.hayati_kolaylastiran_uygulama",
+            "certificate_hash": "1cdf95642dedc24f8c29d6814af3196cbfda105b"
+          }
+        },
+        {
+          "client_id": "990116924577-o4p3e58jqda3jt4ac83fh4nrmsir47n8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCi24tUur5Jr2n72q0B28vz19xx6pRADf0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "990116924577-o4p3e58jqda3jt4ac83fh4nrmsir47n8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
